@@ -11,7 +11,7 @@ setuptools.setup(
     url='',
     project_urls={},
     license='',
-    packages=['src', 'play'],
+    #packages=['src', 'play'],
     install_requires='',
     #python_requires=">=3.11"
 )
