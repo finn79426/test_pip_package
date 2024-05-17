@@ -13,5 +13,5 @@ setuptools.setup(
     license='',
     packages=['src', 'play'],
     install_requires='',
-    python_requires=">=3.11"
+    #python_requires=">=3.11"
 )
