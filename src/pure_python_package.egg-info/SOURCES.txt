@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/pure_python_package/__init__.py
+src/pure_python_package/pure_python_package.py
+src/pure_python_package.egg-info/PKG-INFO
+src/pure_python_package.egg-info/SOURCES.txt
+src/pure_python_package.egg-info/dependency_links.txt
+src/pure_python_package.egg-info/top_level.txt
